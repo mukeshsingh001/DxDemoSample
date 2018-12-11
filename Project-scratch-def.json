@@ -1,0 +1,15 @@
+{
+  "orgName": "EmblemHealthBillingProcess",
+  "edition": "Enterprise",
+  "features": ["Communities", "ServiceCloud", "Chatbot"],
+  "settings": {
+      "orgPreferenceSettings": {
+          "networksEnabled": true,
+          "s1DesktopEnabled": true,
+          "s1EncryptedStoragePref2": false
+      },
+      "caseSettings": {
+          "systemUserEmail": "mukesh.kumar2@cognizant.com"
+      }
+  }
+}
