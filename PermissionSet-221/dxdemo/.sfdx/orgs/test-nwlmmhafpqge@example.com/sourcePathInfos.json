@@ -1,0 +1,257 @@
+[
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545817589018,
+            "changeTime": 1545817589018,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545817589018,
+            "changeTime": 1545817589018,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545817739050,
+            "changeTime": 1545817739050,
+            "contentHash": "052235464d7e27fe59451bef1664a0e6821bd465"
+        }
+    ],
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545817589019,
+            "changeTime": 1545817589019,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo",
+        {
+            "state": "n",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545817650050,
+            "changeTime": 1545817650050,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\objects\\Account\\fields\\Data_process__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\objects\\Account\\fields\\Data_process__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 336,
+            "modifiedTime": 1545817738982,
+            "changeTime": 1545817738982,
+            "contentHash": "7b45ef362c1ce4a9fedcabd89b632c5d7544e54a"
+        }
+    ],
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1545817738985,
+            "changeTime": 1545817738985,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+        }
+    ],
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7761,
+            "modifiedTime": 1545817739000,
+            "changeTime": 1545817739000,
+            "contentHash": "7d503400b7ce2c48e70bcd724f21569ef1a99b35"
+        }
+    ],
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\flows\\Add_Demo_Process.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\flows\\Add_Demo_Process.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4394,
+            "modifiedTime": 1545817739011,
+            "changeTime": 1545817739011,
+            "contentHash": "75092c84009109e6fa88cb3c50a193393982de01"
+        }
+    ],
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17261,
+            "modifiedTime": 1545817739032,
+            "changeTime": 1545817739032,
+            "contentHash": "fbe171f1b1f1c1a0a21f6643b510ed7fc2030bb9"
+        }
+    ],
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\profiles\\Trial Customer Portal User.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\profiles\\Trial Customer Portal User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1544,
+            "modifiedTime": 1545817739042,
+            "changeTime": 1545817739042,
+            "contentHash": "929af187527d2119bd26af1c6e23f48a1b2ccc6f"
+        }
+    ],
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 528,
+            "modifiedTime": 1545817739052,
+            "changeTime": 1545817739052,
+            "contentHash": "6d92fa3ab77cef37a4f9f9c8a85ea8e4238b22cf"
+        }
+    ],
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545817738984,
+            "changeTime": 1545817738984,
+            "contentHash": "925b1cb17df1e8b1169ec856b8f6b872b9331bea"
+        }
+    ],
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545817738979,
+            "changeTime": 1545817738979,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545817738978,
+            "changeTime": 1545817738978,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545817738999,
+            "changeTime": 1545817738999,
+            "contentHash": "b2aa44986320a18245301bea220f7fe3f37f55d0"
+        }
+    ],
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\flows",
+        {
+            "state": "u",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545817739011,
+            "changeTime": 1545817739011,
+            "contentHash": "0cc50de01a331b49a8b0a96b281567fd2bb8d0b1"
+        }
+    ],
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545817739041,
+            "changeTime": 1545817739041,
+            "contentHash": "6de539e406207a3affb7ad6235c1586239769bb7"
+        }
+    ],
+    [
+        "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "D:\\EmblemHealth DX Demo\\PermissionSet-221\\dxdemo\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545817739051,
+            "changeTime": 1545817739051,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
